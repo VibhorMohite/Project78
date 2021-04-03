@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+  }
+  #firstp{
+    word-spacing: 10px;
+   font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+  }
+  
+#album{
+    border-radius: 20px;
+    width: 450px;
+    padding: 5px;
+    border:1px solid green;
+  }
+  
